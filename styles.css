@@ -1,0 +1,60 @@
+body{
+  margin: 0;
+  font-size: 150%;
+
+}
+h1{
+  color: #66BFBF;
+  font-size: 4.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  line-height: 2;
+  margin-top: 0px;
+  text-align: center;
+
+}
+h2{
+  font-family: 'Sacramento', cursive;
+  text-align:center;
+  margin-top: 0;
+}
+h3{
+  font-family: 'Merriweather', serif;
+  text-align:center;
+  margin-top: 0;
+}
+h5{
+  margin-left: 50px;
+}
+table{
+  margin: auto;
+}
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+th, td {
+  background-color: #FAEDC6;
+}
+.top-cont{
+  background-color: blue;
+  width: 100%;
+  height: 200px;
+}
+.middle-cont{
+  background-color: yellow;
+  height:50px;
+  width: 100;
+}
+.greypotion{
+  background-color: #CDDEFF;
+  width: 1100px;
+  margin: auto;
+
+}
+.bottom-container{
+  background-color: blue;
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+  text-align: center;
+}
